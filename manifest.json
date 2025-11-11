@@ -1,8 +1,14 @@
 {
   "manifest_version": 3,
   "name": "Chaos Windows",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Fun pop-up chaos after user consent.",
+  "icons": {
+    "16": "icon.ico",
+    "32": "icon.ico",
+    "48": "icon.ico",
+    "128": "icon.ico"
+  },
   "permissions": ["activeTab", "scripting"],
   "host_permissions": ["<all_urls>"],
   "content_scripts": [
