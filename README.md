@@ -33,19 +33,7 @@
 3. Click **Yes** to start the effect.  
 4. Watch as the first window bounces around.  
 5. Close a window, and **5 more spawn**! The loop continues.
-
----
-
-## 🎨 Screenshots / GIFs
-
-- Initial window spawn:  
-![Window Spawn](screenshots/window1.png)
-
-- Chaos in action (bouncing):  
-![Chaos GIF](screenshots/chaos.gif)
-
-> Replace these with your own screenshots or GIF recordings of the extension.
-
+   
 ---
 
 ## ⚠️ Safety & Notes
